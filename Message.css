@@ -6,7 +6,7 @@
     src: url(Vampire_Wars.ttf);
 }
 body{
-    background: linear-gradient(rgb(53, 2, 2),rgba(23, 1, 1, 0.9));
+    background: linear-gradient(rgb(251, 251, 251),rgba(23, 1, 1, 0.9));
     background-position: center;
     background-size: cover;
 }
